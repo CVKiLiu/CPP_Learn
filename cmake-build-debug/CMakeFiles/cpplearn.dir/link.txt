@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpplearn.dir/main.cpp.o CMakeFiles/cpplearn.dir/dynamicmemory/src/StrBlob.cpp.o  -o cpplearn 
